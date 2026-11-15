@@ -23,7 +23,7 @@ A repo where any member can pick up an issue, read its plan and start without as
 - [x] Synthetic region-week table (`src/synthetic.py`)
 - [ ] Team reads `AGENTS.md`, then accepts or changes decisions 0001 and 0003
 - [ ] Owners agreed for each workstream (brief §3.4 roles)
-- [ ] Issues created from these plans and numbers written back into each plan
+- [x] Issues created from these plans (#1–#16) and numbers written back into each plan
 
 ## Done when
 - [ ] Each member has opened one issue and found its plan
