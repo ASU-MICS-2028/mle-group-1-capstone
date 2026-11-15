@@ -1,0 +1,21 @@
+# data stays local (licence terms; repo is public) — only data/README.md is committed
+/data/*
+!/data/README.md
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os / editors
+.DS_Store
+.vscode/
+.idea/
+.obsidian/
+
+# team-only
+reflections/
+
+# course documents (copyrighted / staff details)
+/*.pdf
