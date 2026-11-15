@@ -3,7 +3,7 @@ id: 0004
 status: Accepted
 date: 2026-11-09
 owner: Team (in the proposal) · confirmed by the instructor's reason for choosing B
-issue: "W05"
+issue: "#6"
 ---
 # 0004 · Split by time: train 2015–2022, tune 2023, test 2024–2025
 

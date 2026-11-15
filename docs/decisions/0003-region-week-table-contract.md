@@ -3,7 +3,7 @@ id: 0003
 status: Proposed
 date: 2026-11-15
 owner: Joseph (proposed) · W01 owner to confirm
-issue: "W01"
+issue: "#2"
 ---
 # 0003 · The shared contract: one row per region per week
 

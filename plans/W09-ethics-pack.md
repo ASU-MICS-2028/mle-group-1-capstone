@@ -1,6 +1,6 @@
 ---
 workstream: W09
-issue: "#TBD"
+issue: "#10"
 owner: unassigned (suggested role: Ethics & communication lead)
 status: Not started
 needs: none for Datasheet and regulatory mapping; W06 for the fairness numbers and Model Card (explicit)

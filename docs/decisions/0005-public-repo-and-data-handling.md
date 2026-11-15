@@ -3,7 +3,7 @@ id: 0005
 status: Accepted
 date: 2026-11-15
 owner: Team (repo created public in the course org)
-issue: "W00"
+issue: "#1"
 ---
 # 0005 · Public repo: no data, no slides, no transcripts committed
 

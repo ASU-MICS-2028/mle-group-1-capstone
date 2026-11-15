@@ -1,6 +1,6 @@
 ---
 workstream: W05
-issue: "#TBD"
+issue: "#6"
 owner: unassigned (suggested role: Modelling lead)
 status: Not started
 needs: none (builds on the synthetic table; switches to the real one when W01/W02 land)

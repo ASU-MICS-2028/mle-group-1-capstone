@@ -1,6 +1,6 @@
 ---
 workstream: W04
-issue: "#TBD"
+issue: "#5"
 owner: unassigned (suggested role: Ethics & communication lead)
 status: Not started
 needs: none (works on the raw Ghana subset of Groundsource; doesn't need labels.parquet)

@@ -3,7 +3,7 @@ id: 0001
 status: Proposed
 date: 2026-11-15
 owner: Joseph (proposed) · whole team to accept
-issue: "W00"
+issue: "#1"
 ---
 # 0001 · Working method: issues + plan files + atomic logs
 

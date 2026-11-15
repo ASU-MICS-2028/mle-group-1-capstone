@@ -1,6 +1,6 @@
 ---
 workstream: W11
-issue: "#TBD"
+issue: "#12"
 owner: everyone (Joseph coordinates)
 status: Not started
 needs: W01, W02, W05 (explicit: this is the integration point)

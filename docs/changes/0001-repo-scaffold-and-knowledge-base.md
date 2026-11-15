@@ -1,7 +1,7 @@
 ---
 id: 0001
 date: 2026-11-15
-issue: "W00, W13"
+issue: "#1, #14"
 owner: Joseph
 ---
 # 0001 · Repo scaffold, working method, plans and first knowledge base

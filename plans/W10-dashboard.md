@@ -1,6 +1,6 @@
 ---
 workstream: W10
-issue: "#TBD"
+issue: "#11"
 owner: unassigned
 status: Not started
 needs: none to build (uses the synthetic table); W06's saved model for the real scores

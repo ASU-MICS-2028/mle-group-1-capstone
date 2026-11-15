@@ -1,6 +1,6 @@
 ---
 workstream: W07
-issue: "#TBD"
+issue: "#8"
 owner: unassigned
 status: Not started
 needs: none

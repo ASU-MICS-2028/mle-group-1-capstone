@@ -4,4 +4,4 @@ One file per change (usually one per PR). Each records **what** changed, **who**
 
 | # | Change | Issue | Owner | Date |
 |---|---|---|---|---|
-| [0001](0001-repo-scaffold-and-knowledge-base.md) | Repo scaffold, working method, plans, first knowledge base | W00, W13 | Joseph | 2026-11-15 |
+| [0001](0001-repo-scaffold-and-knowledge-base.md) | Repo scaffold, working method, plans, first knowledge base | #1, #14 | Joseph | 2026-11-15 |
