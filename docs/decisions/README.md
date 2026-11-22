@@ -9,3 +9,4 @@ One file per decision. Copy [`../templates/decision.md`](../templates/decision.m
 | [0003](0003-region-week-table-contract.md) | Shared contract: one row per region per week | Proposed | 2026-11-15 |
 | [0004](0004-temporal-split.md) | Split by time: train 2015–22, tune 2023, test 2024–25 | Accepted | 2026-11-09 |
 | [0005](0005-public-repo-and-data-handling.md) | Public repo: no data, slides or transcripts committed | Accepted | 2026-11-15 |
+| [0006](0006-workstream-owners.md) | Owners: Joseph holds the critical path, the rest drawn at random | Accepted | 2026-11-22 |

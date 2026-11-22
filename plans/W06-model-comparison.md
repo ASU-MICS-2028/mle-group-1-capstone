@@ -1,7 +1,7 @@
 ---
 workstream: W06
 issue: "#7"
-owner: unassigned (suggested role: Modelling lead)
+owner: Alice (@thealiceiris)
 status: Not started
 needs: W05 harness (explicit). W01 + W02 real data for final numbers; can start tuning code on the synthetic table now.
 due: 2026-11-27

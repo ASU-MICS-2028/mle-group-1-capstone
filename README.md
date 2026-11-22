@@ -12,7 +12,7 @@ ICS553 Machine Learning Essentials, Ashesi University · Alice, Germain, Joseph,
 |---|---|
 | **Next milestone** | **Mid-check, Fri 20 Nov:** data in hand, EDA done, baseline running ([W11](plans/W11-mid-check.md)) |
 | **Critical path** | [W01 labels](plans/W01-labels.md) + [W02 weather](plans/W02-weather-features.md) + [W05 harness and baselines](plans/W05-evaluation-harness-and-baselines.md), in parallel, all startable today |
-| **Waiting on the team** | Pick owners for each workstream · accept or change [decisions 0001](docs/decisions/0001-working-method.md) and [0003](docs/decisions/0003-region-week-table-contract.md) · register Earth Engine accounts · review the AI-drafted notes for your area |
+| **Waiting on the team** | accept or change [decisions 0001](docs/decisions/0001-working-method.md) and [0003](docs/decisions/0003-region-week-table-contract.md) · register Earth Engine accounts · review the AI-drafted notes for your area |
 | **Just finished** | Repo scaffold and first knowledge base ([change 0001](docs/changes/0001-repo-scaffold-and-knowledge-base.md)) |
 
 All workstreams, their owners and status: [`plans/README.md`](plans/README.md).

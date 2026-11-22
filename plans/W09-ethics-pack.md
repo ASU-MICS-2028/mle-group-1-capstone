@@ -1,7 +1,7 @@
 ---
 workstream: W09
 issue: "#10"
-owner: unassigned (suggested role: Ethics & communication lead)
+owner: Germain (@germainemil1)
 status: Not started
 needs: none for Datasheet and regulatory mapping; W06 for the fairness numbers and Model Card (explicit)
 due: 2026-12-11

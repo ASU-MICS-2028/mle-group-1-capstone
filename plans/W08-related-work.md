@@ -1,7 +1,7 @@
 ---
 workstream: W08
 issue: "#9"
-owner: unassigned (suggested role: Problem lead)
+owner: Liza (@lnaikins)
 status: Not started
 needs: none
 due: 2026-12-04

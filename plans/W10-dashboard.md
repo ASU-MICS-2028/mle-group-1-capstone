@@ -1,7 +1,7 @@
 ---
 workstream: W10
 issue: "#11"
-owner: unassigned
+owner: Alice (@thealiceiris)
 status: Not started
 needs: none to build (uses the synthetic table); W06's saved model for the real scores
 due: 2026-12-11

@@ -1,7 +1,7 @@
 ---
 workstream: W12
 issue: "#13"
-owner: everyone (each writes their sections; one editor for voice)
+owner: everyone writes their sections · Liza (@lnaikins) edits for one voice
 status: Not started
 needs: results from W04–W10 (explicit), but the skeleton and the Intro/Data sections can start now
 due: 2026-12-04 (full draft) · 2026-12-11 (repo) · 2026-12-14 (slides)

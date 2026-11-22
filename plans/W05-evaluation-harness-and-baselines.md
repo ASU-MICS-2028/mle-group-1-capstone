@@ -1,7 +1,7 @@
 ---
 workstream: W05
 issue: "#6"
-owner: unassigned (suggested role: Modelling lead)
+owner: Joseph (@josetseph)
 status: Not started
 needs: none (builds on the synthetic table; switches to the real one when W01/W02 land)
 due: 2026-11-19

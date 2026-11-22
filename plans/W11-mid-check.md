@@ -1,7 +1,7 @@
 ---
 workstream: W11
 issue: "#12"
-owner: everyone (Joseph coordinates)
+owner: Joseph (@josetseph) coordinates · everyone presents
 status: Not started
 needs: W01, W02, W05 (explicit: this is the integration point)
 due: 2026-11-20

@@ -1,7 +1,7 @@
 ---
 workstream: W14
 issue: "#15"
-owner: unassigned
+owner: Germain (@germainemil1)
 status: Not started
 needs: W03 (land features) and W06 (best model) — explicit
 due: 2026-12-04

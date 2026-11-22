@@ -1,7 +1,7 @@
 ---
 workstream: W01
 issue: "#2"
-owner: unassigned (suggested role: Data lead)
+owner: Joseph (@josetseph)
 status: Not started
 needs: none
 due: 2026-11-18

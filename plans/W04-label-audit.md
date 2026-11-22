@@ -1,7 +1,7 @@
 ---
 workstream: W04
 issue: "#5"
-owner: unassigned (suggested role: Ethics & communication lead)
+owner: Germain (@germainemil1)
 status: Not started
 needs: none (works on the raw Ghana subset of Groundsource; doesn't need labels.parquet)
 due: 2026-11-27

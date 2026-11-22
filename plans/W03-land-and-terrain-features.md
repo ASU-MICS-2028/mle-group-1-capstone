@@ -1,7 +1,7 @@
 ---
 workstream: W03
 issue: "#4"
-owner: unassigned
+owner: Alice (@thealiceiris)
 status: Not started
 needs: none
 due: 2026-11-25

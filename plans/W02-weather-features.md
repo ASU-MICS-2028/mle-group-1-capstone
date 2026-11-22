@@ -1,7 +1,7 @@
 ---
 workstream: W02
 issue: "#3"
-owner: unassigned (suggested role: Data lead / Modelling lead)
+owner: Joseph (@josetseph)
 status: Not started
 needs: none (region polygons come from geoBoundaries directly if W01's src/regions.py isn't ready)
 due: 2026-11-19
