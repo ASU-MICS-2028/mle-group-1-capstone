@@ -15,7 +15,7 @@ Whoever adds a source fills in its row: version or date, and the fetch command o
 |---|---|---|---|---|---|
 | [Groundsource](https://zenodo.org/records/18647054) ([note](../knowledge/groundsource-dataset.md)) | labels (W01) | CC BY 4.0 | | `src/labels.py` | to download |
 | [geoBoundaries GHA ADM1](https://www.geoboundaries.org/api/current/gbOpen/GHA/ADM1/) | 16 region polygons | CC BY-SA 2.0 (from OSM; verified via API 2026-11-15) | | `src/regions.py` | to download |
-| CHIRPS daily | rain features (W02) | v2 public domain · v3 CC BY 4.0 (re-check on the CHC page) | | Earth Engine `UCSB-CHG/CHIRPS/DAILY` (v2; ID not yet verified) or the CHC server for v3. **v2 stops on 31 Dec 2026** | Earth Engine account needed |
+| CHIRPS daily | rain features (W02) | v2 public domain · v3 CC BY 4.0 (re-check on the CHC page) | | Earth Engine `UCSB-CHG/CHIRPS/DAILY` (v2; ID checked 2026-11-22, data 1981-01-01 to 2026-09-30) or the CHC server for v3. **v2 stops on 31 Dec 2026** | Earth Engine account needed |
 | ERA5-Land daily | soil moisture (W02) | Copernicus licence, attribution | | Earth Engine `ECMWF/ERA5_LAND/DAILY_AGGR` (ID verified) | Earth Engine account needed |
 | Copernicus DEM, HydroSHEDS, JRC GSW, GHSL, WorldPop | static features (W03) | see each knowledge note | | Earth Engine | |
 | Global Flood Database | label audit (W04) | CC BY-NC 4.0 | | Earth Engine `GLOBAL_FLOOD_DB/MODIS_EVENTS/V1` (ID verified; 913 events 2000–2018) | |

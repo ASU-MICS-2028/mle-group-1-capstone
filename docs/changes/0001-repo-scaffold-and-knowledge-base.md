@@ -40,3 +40,4 @@ No data rows were given to the AI. The lecture transcripts were summarised, not 
 | CHIRPS v2 ends Dec 2026 | **Confirmed:** 31 Dec 2026 (CHC newsletter); move to v3 |
 | Earth Engine IDs for ERA5-Land daily and the Global Flood Database | **Confirmed**; the CHIRPS Earth Engine ID isn't checked yet |
 | CHIRPS licences | **Not confirmed** by search; re-check the CHC page |
+| CHIRPS Earth Engine ID `UCSB-CHG/CHIRPS/DAILY` | **Confirmed 2026-11-22** by a live query: data runs 1981-01-01 to 2026-09-30 |
