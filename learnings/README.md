@@ -15,12 +15,13 @@
 
 <!-- index: generated from each note's frontmatter; edit the notes, not this table -->
 
-## Lessons: what to repeat or avoid (15)
+## Lessons: what to repeat or avoid (16)
 
 | Note | In one line |
 |---|---|
 | [A time split must respect when labels are known](time-split-must-respect-when-labels-are-known.md) | A time split must train only on outcomes known before the test period starts |
 | [AI drafts must match the house format](ai-drafts-must-match-the-house-format.md) | AI-drafted report and slides had to be rebuilt in Ashesi templates and our own style |
+| [Assert full coverage after a chunked download](assert-full-coverage-after-chunked-downloads.md) | Chunked API pulls can silently skip days; assert the full date range after joining |
 | [Calibrate before applying a cost cut-off](calibrate-before-applying-a-cost-cutoff.md) | A cost-derived cut-off is only valid on calibrated probabilities; class weights break them |
 | [Check the data against the brief first](check-the-data-against-the-brief-first.md) | Inspect the delivered data and dictionary against the brief before writing any model code |
 | [Choose the fairness measure before the fix](choose-the-fairness-measure-before-the-fix.md) | Decide which fairness criterion comes first, then compare mitigations against it |
