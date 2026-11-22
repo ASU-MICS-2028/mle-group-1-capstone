@@ -19,3 +19,4 @@ reflections/
 
 # course documents (copyrighted / staff details)
 /*.pdf
+.env
