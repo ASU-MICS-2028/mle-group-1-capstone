@@ -38,6 +38,6 @@ No data rows were given to the AI. The lecture transcripts were summarised, not 
 | Groundsource accuracy "75%" | **The sources conflict:** Google's blog says 60% correct in both location and time; the EGU abstract says about 75%. Both are now in the note. |
 | geoBoundaries GHA ADM1 region codes and licence | **Confirmed** via the API: 16 regions whose `shapeISO` matches our codes; licence **CC BY-SA 2.0** (was "not confirmed") |
 | CHIRPS v2 ends Dec 2026 | **Confirmed:** 31 Dec 2026 (CHC newsletter); move to v3 |
-| Earth Engine IDs for ERA5-Land daily and the Global Flood Database | **Confirmed**; the CHIRPS Earth Engine ID isn't checked yet |
+| Earth Engine IDs for ERA5-Land daily and the Global Flood Database | **Confirmed** |
 | CHIRPS licences | **Not confirmed** by search; re-check the CHC page |
 | CHIRPS Earth Engine ID `UCSB-CHG/CHIRPS/DAILY` | **Confirmed 2026-11-22** by a live query: data runs 1981-01-01 to 2026-09-30 |
