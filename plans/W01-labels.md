@@ -2,7 +2,7 @@
 workstream: W01
 issue: "#2"
 owner: Joseph (@josetseph)
-status: Not started
+status: In review
 needs: none
 due: 2026-11-18
 ---
@@ -24,15 +24,15 @@ Everything else needs these labels: the mid-check (data in hand, EDA) and rubric
 - **Rows `data/README.md` needs:** sources, versions, licence and fetch steps.
 
 ## Steps
-- [ ] Download Groundsource and geoBoundaries into `data/raw/`, and record versions and checksums in `data/README.md`.
-- [ ] Filter to Ghana, then check the count against the options report: 2,688 events (Jun 2006–Jan 2026), 2,305 in 2015–2025.
-- [ ] Test each choice open in decision 0003, recording positive rates and row counts for each option in a table:
+- [x] Download Groundsource and geoBoundaries into `data/raw/`, and record versions and checksums in `data/README.md`.
+- [x] Filter to Ghana, then check the count against the options report: 2,688 events (Jun 2006–Jan 2026), 2,305 in 2015–2025.
+- [x] Test each choice open in decision 0003, recording positive rates and row counts for each option in a table:
   - centroid vs intersects;
   - start date vs any covered day;
   - keeping vs dropping polygons over 500 km².
-- [ ] Write a decision file for the chosen rule.
-- [ ] Self-check, ending in an `assert`: 16 regions × 574 weeks; no duplicate keys; `flood` in {0, 1}.
-- [ ] EDA figures: events per year, per month and per region. Save them and index them.
+- [x] Write a decision file for the chosen rule.
+- [x] Self-check, ending in an `assert`: 16 regions × 574 weeks; no duplicate keys; `flood` in {0, 1}.
+- [x] EDA figures: events per year, per month and per region. Save them and index them.
 
 ## Done when
 Standard checklist (see the template). The label rule is a decision file, and the EDA is saved.

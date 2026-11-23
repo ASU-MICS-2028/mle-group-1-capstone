@@ -34,7 +34,7 @@ Labels (W01), weather (W02), land and terrain (W03), models (W05/W06) and the da
 - Region-week also matches the decision: prepare staff and supplies for the week.
 - Region-day (1.3%) is too rare. District level is noisier still.
 
-## Open choices for W01 to test and record
+## Open choices for W01 to test and record (settled in [0007](0007-label-rule.md))
 - **How an event is assigned to a region:** its polygon centroid (as in the options report) or every region its polygon touches.
 - **The event date:** its start date, or any day it covers.
 - **Very large polygons** (about 11% exceed 500 km²): keep them or drop them.

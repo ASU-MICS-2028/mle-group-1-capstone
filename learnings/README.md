@@ -56,7 +56,7 @@
 | [Test every diverging path in a table](test-every-diverging-path-in-a-table.md) | Where two reasonable choices exist, run both and pick with numbers in a saved table |
 | [Write pass rules before the stress test](write-pass-rules-before-the-stress-test.md) | Fix what counts as a pass before running stress tests, and report partial passes honestly |
 
-## Results worth remembering (9)
+## Results worth remembering (10)
 
 | Note | In one line |
 |---|---|
@@ -65,6 +65,7 @@
 | [Data gaps moved decisions more than models](data-gaps-moved-decisions-more-than-models.md) | Swapping models barely changed the answer; one coarse input swapped four of ten |
 | [Features that encode the period hurt on the future](features-that-encode-the-period-hurt-on-the-future.md) | Calendar and slow macro features learn which period a row came from, not risk |
 | [Hiding a column does not hide the group](hiding-a-column-does-not-hide-the-group.md) | Dropping a sensitive column rarely removes the group; other features act as proxies |
+| [Large polygons drive most of the label disagreement](large-polygons-drive-label-disagreement.md) | Label-rule choices barely matter, except big polygons under an "any region touched" rule |
 | [Leaky features top the leaderboard](leaky-features-top-the-leaderboard.md) | When many configurations are compared, the top scorers are usually the leaky ones |
 | [Scorer tests catch what metrics miss](scorer-tests-catch-what-metrics-miss.md) | Unit tests on the deployed scorer found gaps that aggregate metrics never showed |
 | [Shuffled validation inflates scores](shuffled-validation-inflates-scores.md) | Shuffled splits overstate scores, most for flexible models that memorise units |

@@ -7,7 +7,7 @@ One plan per workstream, each tracked by a GitHub issue. The plan is the source 
 | WS | Issue | Plan | Needs | Due | Owner | Status |
 |---|---|---|---|---|---|---|
 | W00 | [#1](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/1) | [Repo and working method](W00-repo-and-working-method.md) | — | 16 Nov | Joseph | In review |
-| W01 | [#2](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/2) | [Flood labels → region-week](W01-labels.md) | — | 18 Nov | Joseph | Not started |
+| W01 | [#2](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/2) | [Flood labels → region-week](W01-labels.md) | — | 18 Nov | Joseph | In review |
 | W02 | [#3](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/3) | [Weather features (Earth Engine)](W02-weather-features.md) | — | 19 Nov | Joseph | Not started |
 | W03 | [#4](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/4) | [Land and terrain features](W03-land-and-terrain-features.md) | — | 25 Nov | Alice | Not started |
 | W04 | [#5](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/5) | [Label audit](W04-label-audit.md) | — | 27 Nov | Germain | Not started |

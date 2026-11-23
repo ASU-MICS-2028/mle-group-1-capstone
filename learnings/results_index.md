@@ -4,3 +4,5 @@ Every saved result, including failures and rejected options. A number that isn't
 
 | File | What it shows | Made by (workstream) | Date |
 |---|---|---|---|
+| [tables/w01_label_options.csv](tables/w01_label_options.csv) | 8 label rules compared: positives, rate, train/test rate, regions with no positive. Chosen: centroid + start + keep all, 585 positives (6.4%) | W01 | 2026-11-23 |
+| [figures/w01_label_eda.png](figures/w01_label_eda.png) | Events per year (120 in 2015 → 333 in 2022), per month (peaks Jun and Sep–Oct), share of weeks flagged per region (Greater Accra 21.6%, Ahafo 0%) | W01 | 2026-11-23 |
