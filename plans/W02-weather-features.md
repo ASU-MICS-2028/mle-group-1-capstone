@@ -2,7 +2,7 @@
 workstream: W02
 issue: "#3"
 owner: Joseph (@josetseph)
-status: Not started
+status: In review
 needs: none (region polygons come from geoBoundaries directly if W01's src/regions.py isn't ready)
 due: 2026-11-19
 ---
@@ -28,11 +28,11 @@ Rain is the main signal. The mid-check needs a rainfall baseline, and the honest
 - **A separate, clearly named forecast experiment:** `rain_thisweek_mm`. It isn't used in the main model ([decision 0004](../docs/decisions/0004-temporal-split.md)).
 
 ## Steps
-- [ ] Register Earth Engine accounts, and note in the issue who has access.
-- [ ] Pull region-mean daily CHIRPS for 2014-12 to 2025-12.
-- [ ] Pull ERA5-Land soil moisture.
-- [ ] Compute the lagged weekly features. Add an `assert` that no feature uses a date ≥ `week_start`.
-- [ ] Sanity plots: monthly rain per region should show the two rainy seasons.
+- [x] Register Earth Engine accounts (Joseph's project; ID kept in the local `.env` as `EE_PROJECT`; teammates to be added in IAM).
+- [x] Pull region-mean daily CHIRPS for 2014-12 to 2025-12.
+- [x] Pull ERA5-Land soil moisture.
+- [x] Compute the lagged weekly features. Add an `assert` that no feature uses a date ≥ `week_start`.
+- [x] Sanity plots: monthly rain per region should show the two rainy seasons.
 
 ## Read first
 - [knowledge/forecast-leakage.md](../knowledge/forecast-leakage.md)
