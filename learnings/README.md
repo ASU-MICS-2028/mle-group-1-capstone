@@ -15,7 +15,7 @@
 
 <!-- index: generated from each note's frontmatter; edit the notes, not this table -->
 
-## Lessons: what to repeat or avoid (16)
+## Lessons: what to repeat or avoid (17)
 
 | Note | In one line |
 |---|---|
@@ -32,6 +32,7 @@
 | [Normalise by exposure before comparing regions](normalise-by-exposure-before-comparing-regions.md) | Counts across units of different size mostly measure size; model or map rates instead |
 | [Plan slack for handovers and the final week](plan-slack-for-handovers-and-the-final-week.md) | Dependent steps slipped and changed hands; plan buffer, early provisional outputs and owners' sign-off |
 | [Rank on the upper bound under uncertainty](rank-on-the-upper-bound-under-uncertainty.md) | When data is thin and stakes are high, rank on the upper bound so doubt favours the vulnerable |
+| [Recall at an alert budget has a chance level](recall-at-k-has-a-chance-level.md) | Recall@top-3 of 16 regions is 19% by pure chance; always quote it beside that |
 | [Report the named subgroup separately](report-the-named-subgroup-separately.md) | When the brief names a subgroup, give its own number, not a table of every group |
 | [Source or stress-test every assumed number](source-or-stress-test-every-assumed-number.md) | An unsourced planning number costs marks; measure it, cite it, or show sensitivity |
 | [Stratify and group the split](stratify-and-group-the-split.md) | A split can be grouped by cluster and still lose marks if it isn't stratified |
@@ -57,7 +58,7 @@
 | [Test every diverging path in a table](test-every-diverging-path-in-a-table.md) | Where two reasonable choices exist, run both and pick with numbers in a saved table |
 | [Write pass rules before the stress test](write-pass-rules-before-the-stress-test.md) | Fix what counts as a pass before running stress tests, and report partial passes honestly |
 
-## Results worth remembering (10)
+## Results worth remembering (11)
 
 | Note | In one line |
 |---|---|
@@ -71,3 +72,4 @@
 | [Scorer tests catch what metrics miss](scorer-tests-catch-what-metrics-miss.md) | Unit tests on the deployed scorer found gaps that aggregate metrics never showed |
 | [Shuffled validation inflates scores](shuffled-validation-inflates-scores.md) | Shuffled splits overstate scores, most for flexible models that memorise units |
 | [Simple models held up better over time](simple-models-held-up-better-over-time.md) | On future data, regularised logistic regression beat random forest and LightGBM |
+| [Where and when beat rain alone (first baselines)](where-and-when-beat-rain-alone.md) | First baselines: the region-month flood rate beats rain-only models on 2023 |

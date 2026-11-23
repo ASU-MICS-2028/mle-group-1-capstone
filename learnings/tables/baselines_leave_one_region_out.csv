@@ -1,0 +1,4 @@
+model,eval,pr_auc,roc_auc,recall_at_3,brier,base_rate,pr_auc_lo,pr_auc_hi,roc_auc_lo,roc_auc_hi,recall_at_3_lo,recall_at_3_hi,brier_lo,brier_hi,n,positives
+seasonal_rate,leave_one_region_out_2015_2023,0.0425,0.2751,0.0295,0.0595,0.0632,0.0371,0.0484,0.2513,0.2978,0.0149,0.0447,0.0527,0.0669,7504,474
+rain_rule,leave_one_region_out_2015_2023,0.1682,0.7592,0.2637,,0.0632,0.1407,0.2038,0.734,0.7857,0.2217,0.3035,,,7504,474
+logistic_rain,leave_one_region_out_2015_2023,0.1347,0.7295,0.2257,0.057,0.0632,0.1141,0.1626,0.7025,0.7557,0.1875,0.2629,0.0507,0.064,7504,474

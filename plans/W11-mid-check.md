@@ -12,7 +12,7 @@ due: 2026-11-20
 Data in hand, EDA done and a baseline model running.
 
 ## Steps
-- [ ] By Thu 19 Nov: real `table.parquet` built (labels plus at least the rain features).
-- [ ] Baselines through the harness, with results saved.
+- [x] By Thu 19 Nov: real `table.parquet` built (labels plus at least the rain features).
+- [x] Baselines through the harness, with results saved.
 - [ ] 5-minute walkthrough: the decision, the label and its bias, the EDA figures, the baseline table, the plan to 11 Dec, and the risks.
 - [ ] Note his feedback in a change file, plus a decision file for anything it changes.
