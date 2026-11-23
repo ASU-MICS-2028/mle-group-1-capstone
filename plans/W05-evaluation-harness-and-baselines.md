@@ -2,7 +2,7 @@
 workstream: W05
 issue: "#6"
 owner: Joseph (@josetseph)
-status: Not started
+status: In review
 needs: none (builds on the synthetic table; switches to the real one when W01/W02 land)
 due: 2026-11-19
 ---
@@ -32,10 +32,10 @@ It should also report two baselines.
   Results go in `learnings/tables/baselines.csv` and are indexed.
 
 ## Steps
-- [ ] Develop against `python src/synthetic.py` output.
-- [ ] Write the `evaluate.py` functions and the self-checks.
-- [ ] Write `build_table.py`.
-- [ ] Run the baselines on real data as soon as W01 and W02 land. This is the mid-check deliverable.
+- [x] Develop against `python src/synthetic.py` output.
+- [x] Write the `evaluate.py` functions and the self-checks.
+- [x] Write `build_table.py`.
+- [x] Run the baselines on real data as soon as W01 and W02 land. This is the mid-check deliverable.
 
 ## Read first
 - [knowledge/temporal-split.md](../knowledge/temporal-split.md)

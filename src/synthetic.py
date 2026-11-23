@@ -29,6 +29,7 @@ def make(seed: int = 553) -> pd.DataFrame:
     wet = df.month.isin([5, 6, 9, 10]).to_numpy()  # two rainy seasons
     for k in (1, 3, 7, 14, 30):
         df[f"rain_{k}d_mm"] = rng.gamma(1.2 + wet, 2.0 * k ** 0.9, len(df)).round(1)
+    df["rain_max1d_7d_mm"] = (df.rain_7d_mm * rng.uniform(0.3, 0.9, len(df))).round(1)
     df["soil_moisture"] = (0.15 + 0.2 * wet + rng.normal(0, 0.04, len(df))).clip(0.02, 0.5).round(3)
     df["builtup_share"] = df.region_id.map({r: 0.4 if r == "GH-AA" else rng.uniform(0.01, 0.1) for r in REGIONS})
     logit = -4.2 + 0.03 * df.rain_7d_mm + 4 * df.builtup_share

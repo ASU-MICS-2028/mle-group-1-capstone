@@ -11,7 +11,7 @@ One plan per workstream, each tracked by a GitHub issue. The plan is the source 
 | W02 | [#3](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/3) | [Weather features (Earth Engine)](W02-weather-features.md) | — | 19 Nov | Joseph | In review |
 | W03 | [#4](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/4) | [Land and terrain features](W03-land-and-terrain-features.md) | — | 25 Nov | Alice | Not started |
 | W04 | [#5](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/5) | [Label audit](W04-label-audit.md) | — | 27 Nov | Germain | Not started |
-| W05 | [#6](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/6) | [Table builder, evaluation harness, baselines](W05-evaluation-harness-and-baselines.md) | — (synthetic) | 19 Nov | Joseph | Not started |
+| W05 | [#6](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/6) | [Table builder, evaluation harness, baselines](W05-evaluation-harness-and-baselines.md) | — (synthetic) | 19 Nov | Joseph | In review |
 | W06 | [#7](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/7) | [Compare ≥4 models](W06-model-comparison.md) | W05 | 27 Nov | Alice | Not started |
 | W07 | [#8](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/8) | [Derivations (LO3)](W07-derivations.md) | — | 4 Dec | Liza | Not started |
 | W08 | [#9](https://github.com/ASU-MICS-2028/mle-group-1-capstone/issues/9) | [Related work (LO7)](W08-related-work.md) | — | 4 Dec | Liza | Not started |

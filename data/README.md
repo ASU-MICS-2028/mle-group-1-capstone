@@ -33,6 +33,8 @@ Each column, its unit, and how it's computed without seeing the future (decision
 | `rain_max1d_7d_mm` | weather | mm | wettest single day in the 7 days before `week_start` | W02 |
 | `soil_moisture` | weather | m³/m³ | mean ERA5-Land top-layer (0–7 cm) volumetric soil water over the 7 days before `week_start` | W02 |
 | `rain_thisweek_mm` | weather_forecast_experiment | mm | rain over `week_start` to +6 days. **Uses the future: forecast experiment only, never in the main model** | W02 |
+| `region_name`, `month` | table | text, 1–12 | lookup from `region_id`; month of `week_start` | W05 |
+| `floods_prev_4w` | table | count | `flood` summed over the 4 weeks before `week_start` (shift 1, never the current week) | W05 |
 
 ## Synthetic stand-in
 `python src/synthetic.py` writes `data/processed/table_synthetic.parquet` (fake numbers, real shape). Use it to build code, and never to report results.
