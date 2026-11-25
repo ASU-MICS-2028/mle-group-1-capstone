@@ -8,6 +8,25 @@ data/interim/     per-source tables (e.g. region-mean daily rain)
 data/processed/   region-week files from decision 0003 (labels, weather, static, table)
 ```
 
+## Quick start: download the built tables
+
+You can skip the 667 MB Groundsource download and the Earth Engine setup. The built files are in the team Google Drive: **[final project → data](https://drive.google.com/drive/folders/1dR6fG05fACSeCf_11TTVHr6ED-e9oJYv)** (team members only; ask Joseph for access).
+
+1. Download the `processed` and `interim` folders.
+2. Put them inside this `data/` folder, so you end up with `data/processed/table.parquet`.
+3. Run your code. `table.parquet` is the main table: one row per region per week, with the flood label and the rain features.
+
+| File | What it holds |
+|---|---|
+| `processed/table.parquet` | The model table: labels + weather + region and month (9,184 rows) |
+| `processed/labels.parquet` | Flood label per region-week ([decision 0007](../docs/decisions/0007-label-rule.md)) |
+| `processed/weather.parquet` | Rain and soil-moisture features per region-week |
+| `processed/weather_forecast_experiment.parquet` | Rain during the week itself, for the forecast experiment only |
+| `interim/groundsource_ghana.parquet` | The 2,725 Groundsource flood events in Ghana, with their regions |
+| `interim/weather_daily.parquet` | Daily rain and soil moisture per region |
+
+Built on 23 Nov 2026 from the code in PRs #17–#19. If the code changes, Joseph rebuilds and replaces these files.
+
 ## Sources
 Whoever adds a source fills in its row: version or date, and the fetch command or script.
 

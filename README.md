@@ -23,7 +23,7 @@ All workstreams, their owners and status: [`plans/README.md`](plans/README.md).
 git clone https://github.com/ASU-MICS-2028/mle-group-1-capstone.git && cd mle-group-1-capstone
 uv venv --python 3.12 && uv pip install -r requirements.txt
 .venv/bin/python src/synthetic.py      # fake table in the real shape, for building code before the data lands
-# real data: see data/README.md
+# real data: download the built tables from the team Drive (link in data/README.md), or rebuild them
 ```
 
 ## Where things are
