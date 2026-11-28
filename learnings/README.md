@@ -58,10 +58,11 @@
 | [Test every diverging path in a table](test-every-diverging-path-in-a-table.md) | Where two reasonable choices exist, run both and pick with numbers in a saved table |
 | [Write pass rules before the stress test](write-pass-rules-before-the-stress-test.md) | Fix what counts as a pass before running stress tests, and report partial passes honestly |
 
-## Results worth remembering (11)
+## Results worth remembering (12)
 
 | Note | In one line |
 |---|---|
+| [A perfect rain forecast adds little](perfect-rain-forecast-adds-little.md) | Even the rain that actually fell during the week lifts 2023 PR-AUC by only 0.04–0.06, and the 95% range of the gain includes zero |
 | [Bootstrap by the correlated unit](bootstrap-by-the-correlated-unit.md) | Resampling rows when rows are correlated gives intervals far too narrow |
 | [Calibration data must span all periods](calibration-data-must-span-all-periods.md) | Calibrating on only the newest slice priced everyone at that slice's base rate |
 | [Data gaps moved decisions more than models](data-gaps-moved-decisions-more-than-models.md) | Swapping models barely changed the answer; one coarse input swapped four of ten |

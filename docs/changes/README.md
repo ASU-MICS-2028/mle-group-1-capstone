@@ -8,3 +8,4 @@ One file per change (usually one per PR). Each records **what** changed, **who**
 | [0002](0002-weather-features.md) | Region loader and weather features (Earth Engine) | #3 | Joseph | 2026-11-22 |
 | [0003](0003-flood-labels.md) | Flood labels from Groundsource | #2 | Joseph | 2026-11-23 |
 | [0004](0004-harness-and-baselines.md) | Table builder, evaluation harness, three baselines | #6 | Joseph | 2026-11-23 |
+| [0005](0005-forecast-experiment.md) | Forecast experiment: what a perfect rain forecast would add | #3 | Joseph | 2026-11-28 |
