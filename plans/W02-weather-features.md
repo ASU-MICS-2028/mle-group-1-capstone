@@ -33,6 +33,7 @@ Rain is the main signal. The mid-check needs a rainfall baseline, and the honest
 - [x] Pull ERA5-Land soil moisture.
 - [x] Compute the lagged weekly features. Add an `assert` that no feature uses a date ≥ `week_start`.
 - [x] Sanity plots: monthly rain per region should show the two rainy seasons.
+- [x] Forecast experiment: score models with and without `rain_thisweek_mm` (upper bound only). Result: [perfect-rain-forecast-adds-little](../learnings/perfect-rain-forecast-adds-little.md).
 
 ## Read first
 - [knowledge/forecast-leakage.md](../knowledge/forecast-leakage.md)

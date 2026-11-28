@@ -1,0 +1,5 @@
+model,eval,n,positives,base_rate,pr_auc_without,pr_auc_with,pr_auc_gain,pr_auc_gain_lo,pr_auc_gain_hi,recall_at_3_without,recall_at_3_with,recall_at_3_gain,recall_at_3_gain_lo,recall_at_3_gain_hi
+logistic_rain_soil,tune_2023,832,91,0.1094,0.178,0.2399,0.062,-0.0105,0.1625,0.1758,0.2088,0.033,-0.0308,0.1
+forest_rain_region_month,tune_2023,832,91,0.1094,0.2839,0.3228,0.0389,-0.0089,0.077,0.4505,0.4286,-0.022,-0.0761,0.0316
+logistic_rain_soil,tune_2023_without_akosombo,704,58,0.0824,0.1535,0.2468,0.0933,-0.0064,0.2277,0.2069,0.2586,0.0517,-0.0185,0.1304
+forest_rain_region_month,tune_2023_without_akosombo,704,58,0.0824,0.2186,0.276,0.0575,0.0001,0.0972,0.4655,0.4655,0.0,-0.0755,0.0714
